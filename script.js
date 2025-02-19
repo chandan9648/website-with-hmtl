@@ -1,5 +1,3 @@
-
-
 var timeout;
 
 const scroll = new LocomotiveScroll({
