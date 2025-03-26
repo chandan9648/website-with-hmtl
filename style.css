@@ -16,7 +16,7 @@ html, body {
     position: absolute;
     z-index: 99999;
     border-radius: 50%;
-    background-color: #fff;
+   background-color: #fff;
 }
 
 .bounding {
