@@ -27,7 +27,7 @@ html, body {
 
 .bounding .boundingelem {
     transform: translateY(100%);
-}
+} 
   
 #main {
     width: 100%;
