@@ -28,7 +28,7 @@ function firstPageAnim() {
       delay: -1,
       ease: Expo.easeInOut,
     });
-}
+} 
 
 function circleChaptaKaro() {
   // define default scale value
