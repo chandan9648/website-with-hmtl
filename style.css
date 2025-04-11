@@ -23,7 +23,7 @@ html, body {
 .bounding {
     width: fit-content;
     overflow: hidden;
-}
+}  
 
 .bounding .boundingelem {
     transform: translateY(100%);
