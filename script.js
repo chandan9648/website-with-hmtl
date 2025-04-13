@@ -8,7 +8,7 @@ const scroll = new LocomotiveScroll({
 function firstPageAnim() { 
   var tl = gsap.timeline();
  
-  tl.from("#nav", {
+  tl.from("#nav", {  
     y: "-10", 
     opacity: 0,
     duration: 1.5,
